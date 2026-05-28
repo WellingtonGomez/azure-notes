@@ -32,3 +32,12 @@ This repository contains notes and concepts learned while studying Microsoft Azu
 ## Progress
 
 Actively updating notes and concepts as I continue learning cloud computing and cybersecurity.
+
+## Certification Goal
+
+Currently studying for:
+- Microsoft Azure Fundamentals (AZ-900)
+
+Target:
+- Earn AZ-900 certification
+- Build hands-on cloud and IT support skills
