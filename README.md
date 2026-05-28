@@ -10,6 +10,7 @@
 * SaaS, PaaS, and IaaS
 * Networking Basics
 * Cloud Computing Benefits
+* Azure Security Basics
 
 ## Purpose
 
