@@ -8,6 +8,8 @@
 * Cloud Infrastructure
 * Security and Governance
 * SaaS, PaaS, and IaaS
+* Networking Basics
+• Cloud Computing Benefits
 
 ## Purpose
 
